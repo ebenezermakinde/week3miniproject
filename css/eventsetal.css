@@ -5,6 +5,7 @@
 *Email:  ebenezermakinde@yahoo.co.uk;
 */
 
+/*The official page font*/
 @font-family{
 	font-family: arimo;
     src: url("fonts/arimo/arimobold.ttf");
@@ -13,8 +14,7 @@
 }
 
 
-
-
+/*The page background image*/
 body{
 
 	background-image: url("../images/bacgd.jpg");
@@ -145,6 +145,8 @@ font-weight: bolder;
 /*Search bar padding details*/
 .formsearch{
 	padding-top: 21px;
+	background-color: #C191A1;
+
 }
 
 /*contactus css attributes starts here*/
@@ -175,3 +177,5 @@ font-weight: bolder;
 	font-weight: bolder; 
 	font-size: 35px;
 }
+
+
